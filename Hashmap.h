@@ -1,4 +1,4 @@
-/* java Hashmap equivlent code
+/* java Hashmap equivalent code
 * $Id: Hashmap.h, 2021/02/22 16:37:30  $
 * Written by LARBI Rochedi <rochedi.larbi@gmail.com>
 *
